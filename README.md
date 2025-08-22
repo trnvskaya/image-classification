@@ -7,7 +7,7 @@ This repository contains two projects:
 ## **1. Image Classification & Dimensionality Reduction**
 
 **Description:**
-In this project, we explore multiple models for classifying the same image dataset. We compare SVM, Naive Bayes, and LDA classifiers, tune hyperparameters, test normalization methods, and apply dimensionality reduction techniques (PCA and LLE) to improve performance.
+In this project, I explore multiple models for classifying the same image dataset. I compared SVM, Naive Bayes, and LDA classifiers, tune hyperparameters, test normalization methods, and applied dimensionality reduction techniques (PCA and LLE) to improve performance.
 
 **Key Steps:**
 
@@ -15,17 +15,17 @@ In this project, we explore multiple models for classifying the same image datas
 * Model training with hyperparameter tuning (including different SVM kernels)
 * Experiment with data normalization
 * Apply PCA and LLE to find optimal dimensions
-* Compare results and estimate final model performance on unseen images
+* Compare results, choose the best performing model and estimate final model performance on unseen images
 
 
 
 ## **2. Neural Network Image Classification**
 
 **Description:**
-In this project, we build a neural network in PyTorch to classify images from the same dataset. We preprocess and normalize the data, split it into training, validation, and test sets, and train the network to predict image labels. We also evaluate its performance and discuss the results.
+In this project, I built and trained a neural network in PyTorch to classify images from the same dataset. I preprocessed and normalized the data, split it into training, validation, and test sets, and evaluated the network’s performance in predicting image labels.
 **Key Steps:**
 
 * Load and normalize image data for training
 * Split data into training, validation, and test sets
-* Build and train a neural network using PyTorch
-* Evaluate model accuracy on unseen data
+* Build and train 2 types of neural networks to classify images (FNN and CNN)
+* Choose a better perofrming model and evaluate model accuracy on unseen data
