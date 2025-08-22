@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-These notebooks were developed as part of the *Machine Learning 2* course at the Faculty of Information Technology, Czech Technical University in Prague (FIT ČVUT).
+**This was developed as part of the Machine Learning 2 course at the Faculty of Information Technology, Czech Technical University in Prague (FIT ČVUT).**
 
 This repository contains two projects:
 
